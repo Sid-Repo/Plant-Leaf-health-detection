@@ -1,4 +1,4 @@
-# Plant-Leaf-health-detection
+# Plant Leaf Health Detection
 
 Project to detect the health status of potato and tomato leaves.
 
